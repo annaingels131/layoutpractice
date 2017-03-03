@@ -1,0 +1,75 @@
+/*===========UNIVERSALS================*/
+body {
+  margin-top: 30px;
+}
+
+.black {
+  background-color: #000;
+}
+
+.small {
+  height: 30px;
+
+}
+
+.medium {
+  height: 80px;
+}
+
+.large {
+  height: 200px;
+}
+
+.xlarge {
+  height: 500px;
+}
+
+.horleft {
+  margin-left: 48px;
+}
+
+.horright {
+  margin-right: 48px;
+}
+
+
+.gutterbottomsm {
+  margin-bottom: 32px;
+}
+
+.gutterbottommd {
+  margin-bottom: 48px;
+}
+
+.gutterbottomlg {
+  margin-bottom: 64px;
+}
+
+
+/*.logo {
+  background-color: #000;
+  height: 90px;
+}
+
+.navlink {
+  background-color: #000;
+  height: 30px;
+  margin: 25px;
+}
+
+.hero {
+  background-color: #000;
+  height: 500px;
+}
+
+.title {
+  background-color: #000;
+  height: 50px;
+  margin: 60px 40px 10px 40px;
+}
+
+.ad1 {
+    background-color: #000;
+    height: 200px;
+    margin: 23px;
+}*/
